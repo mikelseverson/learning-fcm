@@ -1,5 +1,5 @@
 {
-  "short_name": "Learning FCM",
+  "short_name": "Learning",
   "name": "Learning how to use Firebase Cloud Messaging",
   "icons": [
     {
@@ -19,5 +19,5 @@
     }
   ],
   "start_url": "index.html?launcher=true",
-  "gcm_sender_id": "926182017010"
+  "gcm_sender_id": "103953800507"
 }
