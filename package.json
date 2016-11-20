@@ -1,0 +1,15 @@
+{
+  "name": "learning-fcm",
+  "version": "1.0.0",
+  "description": "Trying out FCM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mikelseverson/learning-fcm.git"
+  },
+  "author": "Mikel Severson",
+  "license": "ISC"
+}
